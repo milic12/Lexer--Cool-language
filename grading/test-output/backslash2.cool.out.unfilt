@@ -1,0 +1,8 @@
+#name "./backslash2.cool"
+#2 <Invalid Token>
+#3 <Invalid Token>
+#5 <Invalid Token>
+#6 <Invalid Token>
+#7 STR_CONST "This is, though \\\n"
+#9 STR_CONST "\\"
+#12 STR_CONST "It's fine to have this: \n in a string"
